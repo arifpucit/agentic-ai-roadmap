@@ -1,10 +1,10 @@
 # Generative & Agentic AI Roadmap
 
-**→ [arifpucit.github.io/genai-roadmap](https://arifpucit.github.io/agentic-ai-roadmap/)**
+**→ [arifpucit.github.io/genai-roadmap](https://arifpucit.github.io/genai-roadmap/)**
 
 A student briefing page for the **Generative and Agentic AI** course by Dr. Muhammad Arif Butt, Department of Data Science, University of the Punjab. It shows the flow of the course and the detailed contents of every level, with links to the notebooks, lecture videos, slides, handouts and research papers.
 
-**9 phases · 24 levels · 200 modules**
+**10 phases · 24 levels · 200 modules**
 
 ---
 
@@ -13,14 +13,15 @@ A student briefing page for the **Generative and Agentic AI** course by Dr. Muha
 | Phase | Levels |
 |---|---|
 | **0 · Prerequisites** *(assumed, self-study)* | P1 Python Programming · P2 Machine Learning · P3 Deep Learning · P4 Databases · P5 Cloud Engineering & Deployment |
-| **1 · GenAI Foundations** | 1 The GenAI Landscape · 2 LLM 101: How LLMs Work |
+| **1 · GenAI Foundations** | 1 The GenAI Landscape |
 | **2 · Working with LLMs** | 3 Closed-Source Model APIs · 4 Open-Source Models · 5 Prompt & Context Engineering · 6 Building & Shipping LLM Apps |
 | **3 · Multimodal AI** | 7 Multimodal Models · 8 Building Multimodal Apps |
 | **4 · LLM Evaluation** | 9 Benchmarks & Leaderboards · 10 Evaluating LLMs & LLM Apps |
-| **5 · Knowledge & Customization** | 11 The Data Layer for AI · 12 Retrieval-Augmented Generation · 13 Fine-Tuning LLMs |
-| **6 · Agentic AI** | 14 Agents & Tool Calling · 15 MCP & A2A · 16 Agent Frameworks & Multi-Agent Systems |
-| **7 · Agentic Coding** | 17 AI Coding Assistants & Spec-Driven Development · 18 Extending & Automating Coding Agents |
-| **8 · AI Security & Governance** | 19 Securing & Governing AI Systems |
+| **5 · Knowledge & Customization** | 11 The Data Layer for AI · 2 LLM 101: How LLMs Work · 13 Fine-Tuning LLMs |
+| **6 · Retrieval-Augmented Generation** | 12 Retrieval-Augmented Generation |
+| **7 · Agentic AI** | 14 Agents & Tool Calling · 15 MCP & A2A · 16 Agent Frameworks & Multi-Agent Systems |
+| **8 · Agentic Coding** | 17 AI Coding Assistants & Spec-Driven Development · 18 Extending & Automating Coding Agents |
+| **9 · AI Security & Governance** | 19 Securing & Governing AI Systems |
 
 ## What each level page shows
 
@@ -28,7 +29,7 @@ A student briefing page for the **Generative and Agentic AI** course by Dr. Muha
 - **Learn it hands-on:** notebooks (Open in Colab / GitHub), lecture videos with slides, code repositories, handouts and assignments, docs, governance frameworks (Level 19), and research papers and books.
 - **Build ideas** for the phase. Each idea has a difficulty, the levels it draws on, a suggested stack, a deliverable and a stretch goal.
 
-The landing page has build ideas for every phase (four per phase, Starter to Advanced) and a **Find a topic** search across all 200 modules.
+The landing page has build ideas for every phase (Starter to Advanced) and a **Find a topic** search across all 200 modules.
 
 ## For students
 
