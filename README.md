@@ -1,6 +1,6 @@
 # Generative & Agentic AI Roadmap
 
-**→ [arifpucit.github.io/genai-roadmap](https://arifpucit.github.io/genai-roadmap/)**
+**→ [arifpucit.github.io/genai-roadmap](https://arifpucit.github.io/agentic-ai-roadmap/)**
 
 A student briefing page for the **Generative and Agentic AI** course by Dr. Muhammad Arif Butt, Department of Data Science, University of the Punjab. It shows the flow of the course and the detailed contents of every level, with links to the notebooks, lecture videos, slides, handouts and research papers.
 
