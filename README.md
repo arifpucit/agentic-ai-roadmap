@@ -4,7 +4,7 @@
 
 A student briefing page for the **Generative and Agentic AI** course by Dr. Muhammad Arif Butt, Department of Data Science, University of the Punjab. It shows the flow of the course and the detailed contents of every level, with links to the notebooks, lecture videos, slides, handouts and research papers.
 
-**10 phases · 24 levels · 204 modules**
+**10 phases · 24 levels · 208 modules**
 
 ---
 
@@ -29,7 +29,7 @@ A student briefing page for the **Generative and Agentic AI** course by Dr. Muha
 - **Learn it hands-on:** notebooks (Open in Colab / GitHub), lecture videos with slides, code repositories, handouts and assignments, docs, governance frameworks (Level 19), and research papers and books.
 - **Build ideas** for the phase. Each idea has a difficulty, the levels it draws on, a suggested stack, a deliverable and a stretch goal.
 
-The landing page has build ideas for every phase (Starter to Advanced) and a **Find a topic** search across all 204 modules.
+The landing page has build ideas for every phase (Starter to Advanced) and a **Find a topic** search across all 208 modules.
 
 ## For students
 
