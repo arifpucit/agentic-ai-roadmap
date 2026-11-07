@@ -6,7 +6,7 @@
 
 A student briefing page for the **Generative and Agentic AI** course by Dr. Muhammad Arif Butt, Department of Data Science, University of the Punjab. It shows the flow of the course and the detailed contents of every level, with links to the notebooks, lecture videos, slides, handouts and research papers.
 
-**10 phases · 24 levels · 210 modules · 51 notebooks**
+**10 phases · 24 levels · 212 modules · 55 notebooks**
 
 ---
 
@@ -31,7 +31,7 @@ A student briefing page for the **Generative and Agentic AI** course by Dr. Muha
 - **Learn it hands-on:** notebooks (Open in Colab / GitHub), lecture videos with slides, code repositories, handouts and assignments, docs, governance frameworks (Level 20), and research papers and books.
 - **Build ideas** for the phase. Each idea has a difficulty, the levels it draws on, a suggested stack, a deliverable and a stretch goal.
 
-The landing page has a **Start here** link to the course overview slides, **The path at a glance** with the notebooks (NB-00 to NB-50) behind each phase, build ideas for every phase (Starter to Advanced), a **Find a topic** search across all 210 modules, and a **What Next?** section at the end: seven steps to take after the course (the road to AGI and ASI, self-improving AI, cybersecurity in the age of AI, governance, what AI coding agents mean for fresh graduates, what to do about it, and where to keep learning), each with links to current sources.
+The landing page has a **Start here** link to the course overview slides, **The path at a glance** with the notebooks (NB-00 to NB-54) behind each phase, build ideas for every phase (Starter to Advanced), a **Find a topic** search across all 212 modules, and a **What Next?** section at the end: seven steps to take after the course (the road to AGI and ASI, self-improving AI, cybersecurity in the age of AI, governance, what AI coding agents mean for fresh graduates, what to do about it, and where to keep learning), each with links to current sources.
 
 ## For students
 
@@ -40,11 +40,10 @@ Start with **Phase 0**. It isn't taught in class, so check each prerequisite lev
 ## Notes
 
 - The page is a **single self-contained `index.html`**: no build step, no framework, logos embedded. It needs only Google Fonts and falls back to system fonts offline.
-- All notebooks from NB-00 to NB-50 are linked (Open in Colab / GitHub). NB-48 to NB-50 are still outlines and show an **Outline** tag: when one is finished, search `index.html` for `"draft":true` and remove that flag.
-- The OpenAI Agents SDK and Claude Agent SDK notebooks (Level 17) show as **Coming soon**. When you publish them, search `index.html` for `"soon":true`. Replace that flag with `"u"` (the GitHub URL) and `"colab"` (the Colab URL), using the same format as the existing entries.
+- All notebooks from NB-00 to NB-54 are linked (Open in Colab / GitHub). A notebook entry can also carry `"draft":true` (it shows an **Outline** tag) or `"soon":true` (it shows **Coming soon**, without links); no entry uses either at the moment.
 - The module count is stored in `totalModules`; update it (and the page's meta description) when you add or remove a module.
 - The **What Next?** steps and their links live in `D.next` (title `t`, description `d`, `links` as `[label, url]` pairs; a `#` url is an internal anchor). Its figures are as of November 2026, so refresh them when the sources publish new editions.
-- Compiled October 2026, updated November 2026 for the agentic notebooks (Lec-39 to Lec-50).
+- Compiled October 2026, updated November 2026 for the agentic notebooks (Lec-39 to Lec-54).
 
 ---
 
